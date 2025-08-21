@@ -1,8 +1,8 @@
 [submodule "livox_ros_driver2"]
 	path = livox_ros_driver2
-	url = git@github.com:ggory15/livox_ros_driver2
+	url = https://github.com/ggory15/livox_ros_driver2
 	branch = main
 [submodule "livox_laser_simulation"]
 	path = livox_laser_simulation
-	url = git@github.com:ggory15/livox_laser_simulation_ros2
+	url = https://github.com/ggory15/livox_laser_simulation_ros2.git
 	branch = main
